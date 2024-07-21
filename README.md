@@ -4,7 +4,6 @@
 ## Project Description
 This project is an implementation of the "Circle the Cat" game. The game is a puzzle genre where the player is presented with a board of tiles (circles) containing "blocked tiles" (dark circles) and "empty tiles" (light circles). The cat can only move on empty tiles, and the player must surround the cat on all sides by "filling in the tiles" to prevent it from escaping.
 
-You can find a demonstration of the game here: [Circle the Cat](https://www.crazygames.com/game/circle-the-cat).
 
 ## Game Objective
 The objective of the game is to surround the cat completely so that it cannot move, thereby preventing it from escaping the board.
@@ -33,8 +32,6 @@ The objective of the game is to surround the cat completely so that it cannot mo
 - **C++:** Core programming language.
 - **SFML:** Graphics and sound library.
 - **Object-Oriented Programming:** Inheritance, polymorphism.
-<<<<<<< HEAD
-=======
 
 ## Watch the Game
 You can watch a gameplay video of "Circle the Cat" here: [Circle the Cat](https://www.youtube.com/watch?v=2JM8xjrhpSI&t=31s).
