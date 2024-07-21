@@ -39,4 +39,3 @@ The objective of the game is to surround the cat completely so that it cannot mo
 ## Watch the Game
 You can watch a gameplay video of "Circle the Cat" here: https://www.youtube.com/watch?v=2JM8xjrhpSI&t=31s
 
->>>>>>> fc9779d202da8085f17bbe9c68673a678d080b40
